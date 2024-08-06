@@ -173,6 +173,11 @@ footer a:hover{
 footer a i{
     font-size: 25px;
 }
+@media (max-width: 767px) {
+    #divfoot{
+        margin-bottom: 20px;
+    }
+}
 
 /*Container Mision y vision*/
 .con-perso{
